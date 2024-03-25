@@ -1,0 +1,1 @@
+Sistemas de activos escrito en c++, el cual tiene contraseña, usuario para acceder a las demás funcionalidades. Este tiene registro, actualización, busqueda y ordernamiento de menor a mayor por número en el índice del activo. Manejo de archivos y escrito de forma modular usando un multiset para ordernar los arreglos usados en el programa. 
