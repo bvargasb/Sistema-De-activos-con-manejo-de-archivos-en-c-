@@ -1,0 +1,11 @@
+1 arroz heredia 6/4/2023 904.232 Jorge
+4 integral 90323 7/4/2023 9043.43 andres 
+5 arugula Cartago 16/4/2023 9048.54 Lorena
+3 toallas nicaragua 7/4/2023 90.54 andres
+1 Manila managua 7/4/2023 90.5454 gerardo
+9 computadora 232 7/4/2023 9023 Marie
+6 Tazas Guanajuato 8/4/2023 33 Berlusconi
+1 arrocito heredia 8/4/2023 90.324 jason 
+7 telefono cargador 16/4/2023 23232 manuela
+90 cables toluca 16/4/2023 90345 Eneyda
+4 mouse mexico 16/4/2023 23495 AMLO

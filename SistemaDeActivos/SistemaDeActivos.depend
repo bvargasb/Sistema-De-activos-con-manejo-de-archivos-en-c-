@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1681670950 source:c:\users\personal\documents\c++\sistemadeactivos\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cctype>
+	<iomanip>
+	<ctime>
+	<conio.h>
+	<string.h>
+	<cstdlib>
+	<vector>
+	<set>
+	<bits/stdc++.h>
+

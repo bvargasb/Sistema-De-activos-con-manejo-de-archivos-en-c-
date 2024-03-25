@@ -1,0 +1,6 @@
+1 IT
+2 Finanzas
+8 Contabilidad
+9 Mercadotecnia
+3 Informatica
+90 Investigacion
